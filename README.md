@@ -68,7 +68,7 @@ Hi, I'm David Shan!
 
 If you want to collaborate on a project, feel free to <a href="mailto:davidbshan@gmail.com">contact me through email</a>.
 <br/>
-You can also message me through my <a href="davidbshan.com">website</a>
+You can also message me through my <a href="https://davidbshan.com/">website</a>
 
   </td>
   <td width="50%" valign="top">
