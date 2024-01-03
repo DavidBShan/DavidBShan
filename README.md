@@ -60,24 +60,7 @@ Hi, I'm David Shan!
 </p>
 </br>
 
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-## Let's Work on A Project Together!
-
-If you want to collaborate on a project, feel free to <a href="mailto:davidbshan@gmail.com">contact me through email</a>.
-<br/>
-You can also message me through my <a href="https://davidbshan.com/">website</a>
-
-  </td>
-  <td width="50%" valign="top">
-
 ## Favourite Quote
 
 “When something is important enough, you do it even if the odds are not in your favour.”
 – Elon Musk
-
-  </td>
-  </tr>
-</table>
