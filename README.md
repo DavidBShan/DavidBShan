@@ -16,7 +16,7 @@ Hi, I'm David Shan!
 <pre>
 💻 Driven high school student
 📝 Strong interest in Data Science, Artificial Intelligence, and Embedded Development
-🔭 Working on the intersection of AI with different fields like Finance, Education, Healthcare, and Environment
+🔭 Working on the intersection of AI with different fields like Finance, Education, Healthcare, and Biodiversity
 🌱 Learning about Computer Vision, Embedded Development, and Competitive Programming
 🌟 Main languages: Typescript, C++, Python
 </pre>
