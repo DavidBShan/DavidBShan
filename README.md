@@ -58,9 +58,8 @@ Hi, I'm David Shan!
     <a href="https://github.com/DavidBShan"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="https://github.com/DavidBShan"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-</br>
 
-## Favourite Quote
+## 🚀 Favourite Quote
 
 “When something is important enough, you do it even if the odds are not in your favour.”
 – Elon Musk
