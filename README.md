@@ -64,7 +64,7 @@ Hi, I'm David Shan!
   <tr>
   <td width="50%" valign="top">
 
-## Let's Work on Your Project Together!
+## Let's Work on A Project Together!
 
 If you want to collaborate on a project, feel free to <a href="mailto:davidbshan@gmail.com">contact me through email</a>.
 <br/>
