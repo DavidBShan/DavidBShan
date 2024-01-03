@@ -73,9 +73,7 @@ You can also message me through my <a href="https://davidbshan.com/">website</a>
   </td>
   <td width="50%" valign="top">
 
-## Favourite Quote?
-
-**<a href="https://github.com/DavidBShan"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+## Favourite Quote
 
 “When something is important enough, you do it even if the odds are not in your favour.”
 – Elon Musk
