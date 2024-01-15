@@ -62,5 +62,5 @@ Hi, I'm David Shan!
 
 “When something is important enough, you do it even if the odds are not in your favour.”
 – Elon Musk
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=DavidBShan.DavidBShan)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDavidBShan%2FDavidBShan&label=Visitors&countColor=%23263759)
